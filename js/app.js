@@ -29,7 +29,7 @@ var waypoint = new Waypoint({
     p[3].setAttribute("style", "width:30%;transition:2s all;");
     p[4].setAttribute("style", "width:70%;transition:2.3s all;");
     p[5].setAttribute("style", "width:90%;transition:2.5s all;");
-    p[6].setAttribute("style", "width:10%;transition:2.8s all;");
+    p[6].setAttribute("style", "width:5%;transition:2.8s all;");
 
 
   },
@@ -67,7 +67,7 @@ $('.owl-carousel').owlCarousel({
     nav:false,
     // dots:true,
     autoplay:true,
-    autoplayTimeout:4000,
+    autoplayTimeout:6000,
     items:1,
     // animateOut : "fadeOut",
     animateIn : "fadeInRight"

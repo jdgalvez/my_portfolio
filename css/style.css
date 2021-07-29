@@ -141,7 +141,7 @@ nav.r-nav {
 }
 
 nav.r-nav.stickyadd {
-  background: #fff !important;
+  background: #5EDFFF !important;
   padding: 15px 0;
   box-shadow: 0 1px 8px 3px rgba(0, 0, 0, 0.05);
   transition: 0.5s all ease-in-out;
@@ -339,7 +339,7 @@ footer .r-icon a:hover {
 /* Media-------------------------------------------------------------------------------- */
 @media (min-width: 200px) and (max-width: 768px) {
   .r-nav {
-    background: #fff !important;
+    background: #3E64FF !important;
   }
   .r-nav .container {
     width: 85%;
