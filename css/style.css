@@ -246,39 +246,6 @@ header {
   margin: 10px;
 }
 
-/* Service */
-
-/* .card,
-.card-header {
-  background: #f8f9fa !important;
-}
-
-.card-header {
-  border: none !important;
-}
-
-.services .card-header i {
-  font-size: 50px;
-}
-.service-border {
-  height: 2px;
-  width: 40px;
-  margin: 15px auto;
-  background: #3E64FF;
-  transition: 0.5s all;
-}
-.services h5:hover + .service-border {
-  width: 100px;
-}
-
-.services p {
-  font-size: 16px;
-}
-
-.services .btn:hover {
-  color: #000 !important;
-  background: #eee !important;
-} */
 
 /* Testimony */
 
@@ -406,23 +373,6 @@ footer .r-icon a:hover {
 .myaccordion .btn-link:focus {
   text-decoration: none; }
 
-
-  /* .accordion > .card {
-    overflow: hidden; }
-    .accordion > .card:not(:first-of-type) .card-header:first-child {
-      border-radius: 0; }
-    .accordion > .card:not(:first-of-type):not(:last-of-type) {
-      border-bottom: 0;
-      border-radius: 0; }
-    .accordion > .card:first-of-type {
-      border-bottom: 0;
-      border-bottom-right-radius: 0;
-      border-bottom-left-radius: 0; }
-    .accordion > .card:last-of-type {
-      border-top-left-radius: 0;
-      border-top-right-radius: 0; }
-    .accordion > .card .card-header {
-      margin-bottom: -1px; } */
 
 
       .card {
