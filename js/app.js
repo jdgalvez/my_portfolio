@@ -16,6 +16,7 @@ $(window).on('scroll',function(){
   }
 });
 
+
 // progress bars
 
 var waypoint = new Waypoint({
@@ -23,12 +24,12 @@ var waypoint = new Waypoint({
   handler: function() {
 
     var p = document.querySelectorAll('.progress-bar');
-    p[0].setAttribute("style", "width:50%;transition:1s all;");
-    p[1].setAttribute("style", "width:50%;transition:1.5s all;");
+    p[0].setAttribute("style", "width:75%;transition:1s all;");
+    p[1].setAttribute("style", "width:70%;transition:1.5s all;");
     p[2].setAttribute("style", "width:60%;transition:1.7s all;");
-    p[3].setAttribute("style", "width:35%;transition:2s all;");
-    p[4].setAttribute("style", "width:80%;transition:2.3s all;");
-    p[5].setAttribute("style", "width:90%;transition:2.5s all;");
+    p[3].setAttribute("style", "width:80%;transition:2s all;");
+    p[4].setAttribute("style", "width:90%;transition:2.3s all;");
+    p[5].setAttribute("style", "width:5%;transition:2.5s all;");
     p[6].setAttribute("style", "width:5%;transition:2.8s all;");
 
 
